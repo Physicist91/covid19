@@ -2,3 +2,9 @@ channels:
   - conda-forge
 dependencies:
   - appmode
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - plotly
+  - folium
